@@ -1,4 +1,4 @@
-# Work in progress HTMl project!!
+# Work in progress HTML project!!
 
 ## Hey there!
 
